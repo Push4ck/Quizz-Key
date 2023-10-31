@@ -15,7 +15,7 @@
             { "text": "Nothing significant, as it would be a paradox", "correct": false },
             { "text": "The past self would cease to exist", "correct": false },
             { "text": "They would become a time-traveling duo", "correct": false }
-        }
+        ]
     },
     {
         "question": "What implications might arise if we discovered an alien civilization with technology far superior to ours?",
@@ -24,7 +24,7 @@
             { "text": "Potential subjugation or invasion by the advanced civilization", "correct": false },
             { "text": "Creation of an intergalactic alliance", "correct": false },
             { "text": "A reevaluation of humanity's place in the universe", "correct": true }
-        }
+        ]
     },
     {
         "question": "If we could implant false memories into people's minds, what could be the consequences for society?",
@@ -33,7 +33,7 @@
             { "text": "Erosion of trust and uncertainty in personal memories", "correct": false },
             { "text": "Ethical concerns related to control and manipulation of memories", "correct": true },
             { "text": "Increased mental health and cognitive abilities", "correct": false }
-        }
+        ]
     },
     {
         "question": "In a world where AI achieves superintelligence, what challenges might humanity face in coexisting with highly intelligent machines?",
