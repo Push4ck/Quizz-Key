@@ -1,0 +1,44 @@
+@media (max-width: 768px) {
+    .quiz-app {
+        width: 95%;
+        padding: 20px 5%;
+    }
+
+    .quiz-app h1 {
+        font-size: 20px;
+    }
+
+    .btn {
+        padding: 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    .quiz-app {
+        width: 100%;
+        border-radius: 0;
+        padding: 15px 5%;
+    }
+
+    .quiz-app h1 {
+        font-size: 18px;
+    }
+
+    .btn {
+        padding: 6px;
+    }
+}
+
+@media (max-width: 350px) {
+    .quiz-app {
+        padding: 10px 5%;
+    }
+
+    .quiz-app h1 {
+        font-size: 16px;
+    }
+
+    .btn {
+        padding: 4px;
+    }
+}
